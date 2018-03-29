@@ -8,3 +8,8 @@ Solos:
  - French Horn
  - Alto Sax / Baritone (duo)
  - Baritone
+
+## SKY JOURNEY
+とりあえずフルスコア
+
+難易度Master
